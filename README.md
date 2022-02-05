@@ -1,1 +1,1 @@
-PicoCTF Python program to resolve PW Crack 5
+PicoCTF Python program to decode hash MD5 in PW Crack 5
